@@ -26,3 +26,8 @@ Amongst these 3 models 'XGB' Boost regressor performed well with the R-square sc
 
 **Model Evaluation**
 The evaluation of the model is done using R-squared metric.
+
+**Take a quick Glance**
+
+<img width="349" alt="image" src="https://user-images.githubusercontent.com/119112861/234952990-b99aac79-f2b6-42e1-8eaf-d206b191c785.png">
+
