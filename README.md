@@ -45,6 +45,10 @@ NumberOfMajorSurgeries: The number of major surgeries a patient has undergone ca
 
 PremiumPrice: This is the dependent variable that the model is trying to predict based on the other features. Understanding how the other features impact premium prices can inform healthcare policies and interventions.
 
+**Explanation**
+
+Splitted the data into 80,20 ratio ,applied 'Power-transform' for transforming the features.Used Random forest regressor,XGB regressor,Gradient boost regressor ,Decision tree Regressor. Among which 'XGB Regressor' performed well. 
+
 **Model Evaluation**
 
 The evaluation of the model is done using R-squared metric.
