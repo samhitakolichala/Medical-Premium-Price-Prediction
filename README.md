@@ -56,5 +56,6 @@ The evaluation of the model is done using R-squared metric ,RMSE.
 
 **Take a quick Glance**
 
-<img width="349" alt="image" src="https://user-images.githubusercontent.com/119112861/234952990-b99aac79-f2b6-42e1-8eaf-d206b191c785.png">
+<img width="331" alt="image" src="https://user-images.githubusercontent.com/119112861/236635227-c9043c5f-7ce5-4a71-9957-a32ee05efb51.png">
 
+<img width="512" alt="image" src="https://user-images.githubusercontent.com/119112861/236635093-b628b699-92b9-4636-859c-838fe06a9935.png">
